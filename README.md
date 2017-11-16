@@ -1,11 +1,12 @@
 # Linux Server Configuration to run Catalog App
 
 # IP address
-public: 13.59.85.31
-SSH port: 2200
+public: 18.216.183.144
+
 
 # URL address
-http://ec2-13-59-85-31.us-east-2.compute.amazonaws.com
+    18.216.183.144:5000         lypple.com (not working at the moment)
+#http://ec2-13-59-85-31.us-east-2.compute.amazonaws.com
 
 # Installation
 Install python 2.7 and other necesary modules including postgreSQL database
