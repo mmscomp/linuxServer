@@ -5,7 +5,7 @@ public: 18.216.183.144
 
 
 # URL address #
-        18.216.183.144:5000         lypple.com (not working at the moment)
+        18.216.183.144:5000         lypple.com:5000 
 #http://ec2-13-59-85-31.us-east-2.compute.amazonaws.com
 
 # Installation
